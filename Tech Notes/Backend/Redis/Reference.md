@@ -1,0 +1,7 @@
+- [Redis Official Document](https://docs.spring.io/spring-data/data-redis/docs/current/reference/html/#get-started:first-steps:spring)
+- [Spring Boot + Redis](https://www.cnblogs.com/ityouknow/p/5748830.html)
+- [SpringBoot 整合 Redis 使用詳解（StringRedisTemplate 和 RedisTemplate 對比分析）](https://blog.csdn.net/Abysscarry/article/details/80557347)
+- [Spring + Redis的两个典型应用场景](http://emacoo.cn/backend/spring-redis/)
+- [Redis+Tomcat+Nginx集群實現Session共享，Tomcat Session共享](https://kknews.cc/code/6zj399l.html](https://kknews.cc/code/6zj399l.html))
+- [Redis 管理工具 - Redis Desktop Manager](https://marcus116.blogspot.com/2019/02/redis-redis-redis-desktop-manager.html)
+- 

@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-07-11T05:53:32.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mUL8svwltzKIIDxfWEAo" version="21.5.2" type="device">
+  <diagram name="Page-1" id="DeBsWBKtRUnPlARllUBB">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hCQVS765m24VmZCxWelu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCQVS765m24VmZCxWelu-1" target="hCQVS765m24VmZCxWelu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-1" value="卡產品與認同代碼同步到IAS," style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-2" value="認同代號對應不同的產品區隔，附加權益&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;NL&quot;&gt;&amp;nbsp;&amp;amp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif;&quot;&gt;年費&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;NL&quot;&gt;&amp;nbsp;&amp;amp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif;&quot;&gt;卡片特色，主要會依認同代碼及其他條件判斷&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;NL&quot;&gt;.&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;認同代號設定借用卡片檔Agent&amp;nbsp;Bank&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt;&quot;&gt;欄位，交易亦會帶入認同代號&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;NL&quot;&gt;Affinity&amp;nbsp;Code&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt;&quot;&gt;資訊。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-4" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;BIN 及卡號第7~8碼&lt;/font&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;BIN&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;用於&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;判斷是否為本行卡&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Arial, sans-serif;&quot; lang=&quot;EN-GB&quot;&gt;. BIN+&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;卡號&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Arial, sans-serif;&quot; lang=&quot;EN-GB&quot;&gt;7~8&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;碼&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;用於&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;讓系統程式判斷出特定的卡片產品&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-GB&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Arial, sans-serif&quot;&gt;.&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;一個&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-family: Arial, sans-serif;&quot; lang=&quot;EN-GB&quot;&gt;BIN&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;可對應多個認同代號，為多對多關聯&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;。&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="360" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCQVS765m24VmZCxWelu-5" target="hCQVS765m24VmZCxWelu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCQVS765m24VmZCxWelu-5" target="hCQVS765m24VmZCxWelu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-5" value="Prepaid Card (預付卡) Processing介面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-6" value="預付卡信用額度及容忍度均為零。預付卡的用途與普通信用卡相同，但是在持卡人進行任何零售或預借現金交易之前，該卡必需通過繳款交易進行充值。也因為預付卡總是使用預儲餘額，所以也不會產生利息。" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-8" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;WLPS IAS/IBO&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial; font-size: 10pt; font-family: &amp;quot;Microsoft JhengHei&amp;quot;, sans-serif;&quot;&gt;將需新增對應的線上電文和批次結算處理介面&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="590" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCQVS765m24VmZCxWelu-10" value="P4-001" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

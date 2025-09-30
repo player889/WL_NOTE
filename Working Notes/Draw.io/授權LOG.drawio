@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-08-16T07:09:25.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7VF_4-FqwDFYV5U0NhXd" version="21.6.8" type="device">
+  <diagram name="Page-1" id="6ixYnwjcGCBpLfNoISlB">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hYk7_gQNSzBzD-ZtucLZ-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="160" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hYk7_gQNSzBzD-ZtucLZ-1" value="&lt;p class=&quot;BodytextWorldline&quot;&gt;&lt;span lang=&quot;EN-GB&quot; style=&quot;font-family:&amp;quot;Microsoft JhengHei&amp;quot;,sans-serif;&#xa;mso-fareast-language:ZH-TW&quot;&gt;WLPS&lt;/span&gt;&lt;span style=&quot;font-family:&amp;quot;Microsoft JhengHei&amp;quot;,sans-serif;&#xa;mso-fareast-language:ZH-TW&quot;&gt;將客制，未來在每筆授權&lt;span lang=&quot;EN-GB&quot;&gt;log&lt;/span&gt;中，記錄一種額度的“彈性比例來源”（參見&lt;span lang=&quot;EN-GB&quot;&gt;5.3&lt;/span&gt;）、“額度類型”、“彈性比例”、“&lt;span lang=&quot;EN-GB&quot;&gt;SHADOW&lt;/span&gt;前可用餘額”、“&lt;span lang=&quot;EN-GB&quot;&gt;SHADOW&lt;/span&gt;后可用餘額”。&lt;span lang=&quot;EN-GB&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="hYk7_gQNSzBzD-ZtucLZ-3">
+          <mxGeometry y="10" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hYk7_gQNSzBzD-ZtucLZ-2" value="P4-016" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="hYk7_gQNSzBzD-ZtucLZ-3">
+          <mxGeometry width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

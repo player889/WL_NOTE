@@ -1,0 +1,7 @@
+* [JasperReport 中踩過的坑](https://www.cnblogs.com/penghongwei/p/9471801.html)
+* [iReport的group排序、分類、加總及總計實作](https://www.tpisoftware.com/tpu/articleDetails/1949)
+* [快速學習JasperReport-分組報表](https://cloud.tencent.com/developer/article/1581026)
+* [JasperReports報表區段](http://tw.gitbook.net/jasper_reports/jasper_report_sections.html)
+* [JasperReports報表組](http://tw.gitbook.net/jasper_reports/jasper_report_groups.html)
+* [Create a Group Layout for Jasper Reports](https://www.learn-it-with-examples.com/development/reporting-tools/jasper-reports/create-group-layout-jasper-report-studio.html)
+* [如何在JasperReports中製作分組(()Group)加總](https://tech-lyrics.blogspot.com/2011/05/jasperreportsgroup.html)

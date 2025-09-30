@@ -1,0 +1,3 @@
+1. [Shiro+ JWT + Spring Boot Restful 簡易教程](https://juejin.cn/post/6844903506535071758#heading-0)
+2. [SpringBoot 整合JWT实现基于自定义注解的-登录请求验证拦截（保姆级教学，附：源码1)]( https://developer.aliyun.com/article/1301042?spm=a2c6h.12873639.article-detail.35.7e01475ar1CY1M&scm=20140722.ID_community@@article@@1301042._.ID_community@@article@@1301042-OR_rec-V_1-RL_community@@article@@1301045)
+3. [SpringBoot 整合JWT实现基于自定义注解的-登录请求验证拦截（保姆级教学，附：源码 2)](https://developer.aliyun.com/article/1301045?spm=a2c6h.12873639.article-detail.26.66dc45f0mPk0X8)
