@@ -1,8 +1,0 @@
-- [爲 Spring Boot 啓用超媒體支持](https://www.twblogs.net/a/5fc72f4a5a0e81ec718836c2)
-- [# An Intro to Spring HATEOAS](https://www.baeldung.com/spring-hateoas-tutorial)
-- [Spring HATEOAS - Hypermedia Example](https://github.com/spring-projects/spring-hateoas-examples/tree/main/hypermedia)
-- [Custom Spring Data Rest Controller with HATEOAS Support](https://stackoverflow.com/questions/50201009/custom-spring-data-rest-controller-with-hateoas-support)
-- [Building better GUIs using DDD and Spring HATEOAS](https://medium.com/elca-it/building-better-guis-using-ddd-and-spring-hateoas-b1d6bfed81b9)
-- [在 Spring Boot 中使用 HATEOAS](https://blog.aisensiy.me/spring-boot-and-hateoas)
-- [How to Build Hypermedia API with Spring HATEOAS](https://grapeup.com/blog/how-to-build-hypermedia-api-with-spring-hateoas/)
--

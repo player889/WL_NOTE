@@ -1,1 +1,0 @@
-**https://vladmihalcea.com/hypersistence-optimizer/docs/user-guide/#EnumTypeStringEvent**

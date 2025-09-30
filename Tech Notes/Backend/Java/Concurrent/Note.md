@@ -1,1 +1,0 @@
-* LongAdder是JDK 1.8 新增的原子類，基於Striped64實現。從官方文檔看，LongAdder在高並發的場景下會比AtomicLong 具有更好的性能，代價是消耗更多的內存空間。
